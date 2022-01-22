@@ -1,0 +1,19 @@
+{
+  "name": "testpackage2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall":"node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masatonakatsuji2021/testpackage2022.git"
+  },
+  "author": "Nakatsuji Masato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masatonakatsuji2021/testpackage2022/issues"
+  },
+  "homepage": "https://github.com/masatonakatsuji2021/testpackage2022#readme"
+}
